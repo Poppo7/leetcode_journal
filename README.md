@@ -1,4 +1,4 @@
-# LeetCode Progress
+# LeetCode Journal
 
 This repository is dedicated to tracking my journey through LeetCode problems. Here, I aim to document my progress, share solutions, and reflect on my growth as a problem solver.
 
