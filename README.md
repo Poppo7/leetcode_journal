@@ -15,7 +15,7 @@ This repository is dedicated to tracking my journey through LeetCode problems. H
 
 | Date       | Problems Solved | Notes                           |
 |------------|-----------------|---------------------------------|
-| YYYY-MM-DD | X               | Example: Focused on Arrays.     |
+| 2025-01-27 | 1               | Focused on Arrays.              |
 
 ## Currently learning
 Arrays & Hashing
